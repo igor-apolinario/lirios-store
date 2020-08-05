@@ -49,10 +49,10 @@ render={data => (
                 <div className="Product__name">
                   {product.name}
                   <div className="Product__price">
-                    {product.price}€
+                    R$ {product.price}
                   </div>
                 </div>
-                <span className="Product__buy">Buy now</span>
+                <span className="Product__buy">Eu quero</span>
               </div>
             </div>
           </div>
