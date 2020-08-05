@@ -8,16 +8,20 @@
   }
 
   .snip-header {
-    background: #663399;
+    background: #e6db47;
   }
 
   .snip-layout__main-container {
-    border: 2px solid black;
+    border: 2px solid #dddddd;
     padding: 3px;
   }
 
   .snip-header__total {
     border-radius: 0;
+  }
+
+  .snip-header__total {
+    background: #d4cc65;
   }
 }
 
